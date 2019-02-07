@@ -1,0 +1,33 @@
+body{
+  background-color: #F9EBEA;
+}
+h1{
+  color: #5E3C5F;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Times New Roman";
+}
+h3{
+  color: #9B59B6;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Times";
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ol{
+  line-height: 40px;
+}
+strong{
+  font-style: italic;
+  font-size: 20px;
+  color: #229954;
+}
+em{
+  font-weight: bold;
+  font-size: 20px;
+  color: #C0392B;
+}
